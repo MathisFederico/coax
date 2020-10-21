@@ -42,3 +42,7 @@ sftp*-config.json
 
 # mypy
 .mypy_cache/
+
+# venv
+.env*
+venv
